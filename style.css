@@ -1,4 +1,11 @@
 
+body {
+    box-sizing: border-box;
+    left: 0;
+    right: 0;
+}
+
+
 .jumbotron {
     padding-top: 6rem;
 }
