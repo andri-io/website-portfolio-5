@@ -5,9 +5,15 @@ body {
     right: 0;
 }
 
+.navbar {
+    background-color: rgba(0, 0, 0, .8);
+    backdrop-filter: blur(5px);
+}
+
 
 .jumbotron {
     padding-top: 6rem;
+    backdrop-filter: blur(300px);
 }
 
 section {
