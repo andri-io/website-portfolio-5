@@ -17,3 +17,7 @@ section {
 .svg3 {
     position: absolute;
 }
+
+.card-contact {
+    margin: 0 2rem;
+}
